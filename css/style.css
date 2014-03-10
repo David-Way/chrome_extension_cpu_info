@@ -1,0 +1,28 @@
+body {
+  min-width: 400px;
+  overflow-x: hidden;
+}
+
+img {
+  margin: 5px;
+  border: 2px solid black;
+  vertical-align: middle;
+  width: 75px;
+  height: 75px;
+}
+
+p {
+	margin-bottom: 0px;
+}
+
+#textInfo {
+	width: 100%;
+}
+
+.memoryInuse {
+	color: #EC0828; //Reddish
+}
+
+.memoryFree {
+	color: #6DC405; //Greenish
+}
